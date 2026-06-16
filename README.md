@@ -1,4 +1,4 @@
-# QA Portfolio — Марциохо Артем
+# QA Portfolio
 
 ## О себе
 
