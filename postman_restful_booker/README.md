@@ -5,8 +5,6 @@
 
 ## Состав
 - `Booker.postman_collection.json` — коллекция для тестирования Restful Booker API.
-- `N1.postman_collection.json` — учебная коллекция для отработки базовых запросов и переменных.
-- `N2.postman_collection.json` — учебная коллекция для отработки структуры Postman-запросов.
 
 ## Restful Booker
 В коллекции Booker реализованы:
@@ -25,5 +23,4 @@
 ## Инструменты
 Postman, REST API, JSON, Basic Auth, Token Auth, tv4.
 
-## Примечание
-Коллекции N1 и N2 являются учебными и используются для демонстрации практики работы с Postman.
+
