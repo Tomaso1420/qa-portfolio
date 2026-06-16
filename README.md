@@ -28,11 +28,9 @@
 * Postman;
 * Swagger / OpenAPI;
 * Git, GitHub, GitLab;
-* IntelliJ IDEA;
 * Maven;
 * Docker;
 * PostgreSQL;
-* Excel.
 
 ### Programming & Databases
 
